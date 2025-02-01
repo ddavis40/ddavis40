@@ -5,7 +5,7 @@
 - <b>Full Stack Web App - MyIntList (React, Jinja, HTML, Python, and SQL components)</b>
   - [I solo created an add-on for one of the most popular video games in the world League of Legends](https://github.com/ddavis40/My-INT-List)
 - <b>Active Directory Home Lab</b>
-  - [Created something in active directory](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Created something in active directory]()
 
 <h2>:page_with_curl: Certifications:</h2>
 
@@ -17,7 +17,7 @@
 <h2>📺 Popular YouTube Videos:</h2>
 
 - [MyIntList](https://youtu.be/eOcW8H7DP_k)
-- [Active Directory Home Lab](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Active Directory Home Lab]()
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -30,8 +30,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+[linkedin]: https://linkedin.com/in/drake-davis-2ba089347
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
