@@ -16,7 +16,7 @@
 
 <h2>📺 Popular YouTube Videos:</h2>
 
-- [MyIntList](https://youtu.be/eOcW8H7DP_k)
+- [MyIntList](https://www.youtube.com/watch?v=-6O8rmq4A80)
 - [Active Directory Home Lab]()
 
 
