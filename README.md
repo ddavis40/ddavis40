@@ -1,7 +1,39 @@
-## Hi there 👋
+<h1>Hi, I'm Drake!
+
+<h2>👨‍💻 Software / IT / Cybersecurity Projects:</h2>
+
+- <b>Full Stack Web App - MyIntList (React, Jinja, HTML, Python, and SQL components)</b>
+  - [I solo created an add-on for one of the most popular video games in the world League of Legends](https://github.com/ddavis40/My-INT-List)
+- <b>Active Directory Home Lab</b>
+  - [Created something in active directory](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<h2>:page_with_curl: Certifications</h2>
+
+- <b>CS50x: Introduction to the intellectual enterprises of computer science and the art of programming from Harvard Extension School</b>
+  - [CS50x Cert Link](https://certificates.cs50.io/f4593f9d-3790-4f8f-920c-975eaa80f5c8.png?size=letter)
+- <b>CompTIA Security+(In-Progress)</b>
+  - [Sec+ Cert Link]()
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [MyIntList](https://youtu.be/eOcW8H7DP_k)
+- [Active Directory Home Lab](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**ddavis40/ddavis40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
