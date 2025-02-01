@@ -7,14 +7,14 @@
 - <b>Active Directory Home Lab</b>
   - [Created something in active directory](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>:page_with_curl: Certifications</h2>
+<h2>:page_with_curl: Certifications:</h2>
 
 - <b>CS50x: Introduction to the intellectual enterprises of computer science and the art of programming from Harvard Extension School</b>
   - [CS50x Cert Link](https://certificates.cs50.io/f4593f9d-3790-4f8f-920c-975eaa80f5c8.png?size=letter)
 - <b>CompTIA Security+(In-Progress)</b>
   - [Sec+ Cert Link]()
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos:</h2>
 
 - [MyIntList](https://youtu.be/eOcW8H7DP_k)
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=uHy3oM7NnoU)
