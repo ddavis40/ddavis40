@@ -5,7 +5,7 @@
 - **[Full Stack Web App](https://github.com/ddavis40/My-INT-List) - "MyIntList" (React, Jinja, HTML, Python, and SQL components)**
   - I solo created an add-on for one of the most popular video games in the world League of Legends.
 - **[Active Directory Home Lab](https://github.com/ddavis40/ActiveDirectoryLab)**
-  - Set up in windows server 2019 using Active Directory tools, a domain, a DHCP, a blank.
+  - Used PowerShell, DHCP, and windows server 2019 with AD to create a DC for our 1000+ user base to use authorized clients to connect to their user accounts and to the internet using our client1-2 machines.
 
 ## :page_with_curl: Certifications:
 
@@ -17,7 +17,7 @@
 ## 📺 Popular YouTube Videos:
 
 - [MyIntList](https://www.youtube.com/watch?v=-6O8rmq4A80)
-- [Active Directory Home Lab]()
+- [Active Directory Home Lab](https://youtu.be/oGFOc58obVE)
 
 
 ## 🤳 Connect with me:
